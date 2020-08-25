@@ -1,0 +1,28 @@
+{
+  "name": "corrandom",
+  "version": "1.0.0",
+  "description": "Generates a random string based on consecutive numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widevel/corrandom.js.git"
+  },
+  "keywords": [
+    "random",
+    "safe"
+  ],
+  "author": "Marco iosif Constantinescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widevel/corrandom.js/issues"
+  },
+  "homepage": "https://github.com/widevel/corrandom.js#readme",
+  "dependencies": {
+    "arrayindexoverflow": "^1.0.1",
+    "shuffle-seed": "^1.1.6",
+    "zero-fill": "^2.2.4"
+  }
+}
